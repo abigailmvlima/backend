@@ -1,0 +1,118 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#0D1B1E",
+    "activityBar.foreground": "#947498",
+    "activityBar.inactiveForeground": "#A0B2C2",
+    "activityBarBadge.background": "#388E3C",
+    "activityBarBadge.foreground": "#FFFFFF",
+    "titleBar.activeBackground": "#16242B",
+    "titleBar.activeForeground": "#D9E7F1",
+    "titleBar.inactiveBackground": "#1B2B31",
+    "titleBar.inactiveForeground": "#8A9AA6",
+    "statusBar.background": "#0C1D22",
+    "statusBar.foreground": "#FFFFFF",
+    "statusBar.debuggingBackground": "#004D40",
+    "statusBar.noFolderBackground": "#0D2530",
+    "terminal.background": "#121212",
+    "terminal.foreground": "#D0D0D0",
+    "editor.background": "#171717",
+    "editor.foreground": "#FFFFFF",
+    "tab.activeBackground": "#464545",
+    "tab.inactiveBackground": "#222222",
+    "tab.activeForeground": "#FFFFFF",
+    "tab.inactiveForeground": "#A0A0A0",
+    "sideBar.background": "#000000",
+    "sideBar.foreground": "#FFFFFF",
+    "sideBarSectionHeader.background": "#1C1C1C",
+    "sideBarSectionHeader.foreground": "#bdafaf"
+  },
+  "workbench.fontAliasing": "auto",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+  "[json]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.suggestSelection": "first",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.iconTheme": "vscode-icons",
+  "explorer.confirmDelete": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "tabnine.experimentalAutoImports": true,
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "yaml.customTags": [
+    "!And",
+    "!And sequence",
+    "!If",
+    "!If sequence",
+    "!Not",
+    "!Not sequence",
+    "!Equals",
+    "!Equals sequence",
+    "!Or",
+    "!Or sequence",
+    "!FindInMap",
+    "!FindInMap sequence",
+    "!Base64",
+    "!Join",
+    "!Join sequence",
+    "!Cidr",
+    "!Ref",
+    "!Sub",
+    "!Sub sequence",
+    "!GetAtt",
+    "!GetAZs",
+    "!ImportValue",
+    "!ImportValue sequence",
+    "!Select",
+    "!Select sequence",
+    "!Split",
+    "!Split sequence"
+  ],
+  "redhat.telemetry.enabled": true,
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "files.associations": {
+    "*.js": "javascript"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+  },
+  "git.ignoreLimitWarning": true
+}
